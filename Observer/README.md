@@ -1,5 +1,3 @@
-![Workflow Status](https://github.com/GustavoRT-debug/C214-TEORIA.git/actions/workflows/main.yml/badge.svg)
-
 **README.md**
 
 # Observador
