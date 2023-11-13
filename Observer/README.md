@@ -2,7 +2,7 @@ Vou fornecer um exemplo básico de README para o seu projeto. Lembre-se de perso
 
 **README.md**
 
-# Observador e Observável
+# Observador
 
 Este projeto Java implementa o padrão de design Observer, usando as classes Observador e Observável para contar estatísticas simples em uma sequência de palavras.
 
@@ -17,10 +17,6 @@ Este projeto Java implementa o padrão de design Observer, usando as classes Obs
 ### Observador
 
 O Observador conta o número total de palavras, o número de palavras com comprimento par e o número de palavras começadas com maiúsculas em uma sequência de palavras.
-
-### Observável
-
-O Observável mantém uma lista de Observadores e notifica todos os Observadores quando uma nova sequência de palavras é recebida.
 
 ## Como Usar
 
