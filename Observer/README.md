@@ -1,4 +1,4 @@
-Vou fornecer um exemplo básico de README para o seu projeto. Lembre-se de personalizar conforme necessário.
+![Workflow Status](https://github.com/GustavoRT-debug/C214-TEORIA/actions/workflows/main.yml/badge.svg)
 
 **README.md**
 
