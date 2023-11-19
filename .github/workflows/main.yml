@@ -24,5 +24,4 @@ jobs:
 
       - name: Run tests
         run: |
-          cd ./C214-1
           python -m unittest discover -v
